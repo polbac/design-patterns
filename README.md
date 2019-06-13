@@ -1,13 +1,13 @@
 # DESIGN PATTERNS
 
-🕺 Mediator
+- 🕺Mediator
 - Builder
 - Factory
 - Observer
 - Observable
-🕺 Flyweight
+- 🕺Flyweight
 - Proxy
-🕺 Repository
+- 🕺Repository
 - Service
 - Singleton
 - Command
