@@ -1,12 +1,13 @@
 # DESIGN PATTERNS
-+ Mediator
-- Builder
-- Factory
-- Observer
-- Observable
-- Flyweight
-- Proxy
-- Repository
+
+🕺 Mediator
+Builder
+Factory
+Observer
+Observable
+🕺 Flyweight
+Proxy
+🕺 Repository
 - Service
 - Singleton
 - Command
@@ -14,6 +15,5 @@
 - Composite
 - Facade
 - Iterator
-- Mediator
 - Adapter
 - Module
