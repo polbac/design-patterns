@@ -10,7 +10,7 @@
     "typescript": "^3.4.5"
   },
   "scripts": {
-    "start": "ts-node --project src/tsconfig.json ./src/mediator"
+    "start": "ts-node --project src/tsconfig.json ./src/builder"
   },
   "devDependencies": {
     "@types/prop-types": "^15.7.1"
