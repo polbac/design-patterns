@@ -1,7 +1,7 @@
 # DESIGN PATTERNS
 
 - 🕺Mediator
-- Builder
+- 🕺Builder
 - Factory
 - Observer
 - Observable
@@ -11,7 +11,7 @@
 - Service
 - Singleton
 - Command
-- Decorator
+- 🕺Decorator
 - Composite
 - Facade
 - Iterator
