@@ -22,7 +22,7 @@ class Observable {
     return new Subscription(this, f);
   }
 
-  notify(value: any) {
+  next(value: any) {
     this.observers.forEach(observer => observer(value));
   }
 }
@@ -32,7 +32,7 @@ class Robot extends Observable {
 
   wing() {
     this.altitude++;
-    this.notify(this.altitude)
+    this.next(this.altitude)
   }
 }
 

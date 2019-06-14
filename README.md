@@ -2,7 +2,7 @@
 
 - 🕺Mediator
 - 🕺Builder
-- Factory
+- 🦄 Factory
 - Observer
 - 🕺Observable
 - 🕺Subscription
@@ -14,9 +14,9 @@
 - 🕺Singleton
 - Command   
 - 🕺Decorator
-- Composite
+- 🦄 Composite
 - Facade
 - Iterator
-- Adapter
+- 🦄 Adapter
 - Module
 - Visitor
