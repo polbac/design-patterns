@@ -1,22 +1,31 @@
 # DESIGN PATTERNS
 
-- 🕺Mediator
-- 🕺Builder
+## Creational
+
+Deal with object creation mechanisms, trying to create objects in a manner suitable to the situation
+
 - 🦄 Factory
-- Observer
-- 🕺Observable
-- 🕺Subscription
-- Subject
-- 🕺Flyweight
-- Proxy
-- 🕺Repository
-- Service
 - 🕺Singleton
-- Command   
+- 🕺Builder
+
+## Structural
+
+Ease the design by identifying a simple way to realize relationships between entities.
+
 - 🕺Decorator
 - 🦄 Composite
+- 🕺Flyweight
 - Facade
-- Iterator
+
+## Behavioral
+
+Behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns
+
+- 🕺Mediator
+- 🕺Observable
+- 🕺Subscription
+- 🕺Repository
 - 🦄 Adapter
-- Module
-- Visitor
+
+![design patterns](https://media.giphy.com/media/KVZWZQoS0yqfIiTAKq/source.gif)
+
