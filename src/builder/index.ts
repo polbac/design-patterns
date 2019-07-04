@@ -51,6 +51,7 @@ class BannerHappybirthdateBuilder {
 banner.showBanner() */
 
 const bannerWithBuilder = new BannerHappybirthdateBuilder()
+
 bannerWithBuilder
     .withFirtName('John')
     .withLastName('Adams')

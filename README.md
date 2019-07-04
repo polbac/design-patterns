@@ -1,25 +1,25 @@
 # DESIGN PATTERNS
 
-## Creational
+## Creacional
 
-Deal with object creation mechanisms, trying to create objects in a manner suitable to the situation
+Provee mecanismos de creación de objetos, tratando de crear objetos de una manera adecuada a cada situación.
 
 - 🦄 Factory
 - 🕺Singleton
 - 🕺Builder
 
-## Structural
+## Estructural
 
-Ease the design by identifying a simple way to realize relationships between entities.
+Facilita el diseño identificando una forma sencilla de realizar relaciones entre distintas entidades.
 
 - 🕺Decorator
-- 🦄 Composite
+- 🕺 Composite
 - 🕺Flyweight
 - Facade
 
-## Behavioral
+## Comportamiento
 
-Behavioral design patterns are design patterns that identify common communication patterns between objects and realize these patterns
+Identifican patrones de comunicación comunes entre objetos y realizan estos patrones.
 
 - 🕺Mediator
 - 🕺Observable
