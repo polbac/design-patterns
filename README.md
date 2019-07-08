@@ -4,7 +4,7 @@
 
 Provee mecanismos de creación de objetos, tratando de crear objetos de una manera adecuada a cada situación.
 
-- 🦄 Factory
+- 🕺Factory
 - 🕺Singleton
 - 🕺Builder
 
@@ -13,7 +13,7 @@ Provee mecanismos de creación de objetos, tratando de crear objetos de una mane
 Facilita el diseño identificando una forma sencilla de realizar relaciones entre distintas entidades.
 
 - 🕺Decorator
-- 🕺 Composite
+- 🕺Composite
 - 🕺Flyweight
 - Facade
 
