@@ -25,7 +25,7 @@ Identifican patrones de comunicación comunes entre objetos y realizan estos pat
 - 🕺Observable
 - 🕺Subscription
 - 🕺Repository
-- 🦄 Adapter
+- 🕺Adapter
 
 ![design patterns](https://media.giphy.com/media/KVZWZQoS0yqfIiTAKq/source.gif)
 
