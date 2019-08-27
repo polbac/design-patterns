@@ -22,7 +22,7 @@ Facilita el diseño identificando una forma sencilla de realizar relaciones entr
 Identifican patrones de comunicación comunes entre objetos y realizan estos patrones.
 
 - [Mediator](src/mediator/README.md)
-- [Observable](src/observable/README.md)
+- [Observable](src/observable-subscription/README.md)
 - [Repository](src/repository/README.md)
 - [Adapter](src/adapter/README.md)
 
