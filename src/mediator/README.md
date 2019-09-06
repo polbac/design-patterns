@@ -15,6 +15,7 @@ De este modo el Mediador (chat) media entre las distintas personas para que pued
 ```typescript
 /////////////////////////////////
 
+
 class Person {
     name: string
     id: string
